@@ -2,9 +2,9 @@
 
 
 
-### 1. [installation][http://deployer.org/docs/getting-started]
+### 1. [installation](http://deployer.org/docs/getting-started)
 
-### 2.Config
+### 2. Config
 
 ``` php
 <?php
