@@ -1,4 +1,4 @@
-# Realease the php project  with Deployer
+# Release the php project  with Deployer
 
 
 
