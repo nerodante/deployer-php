@@ -16,9 +16,9 @@ server('prod', '10.211.55.7', 22)
     ->stage('production')
     ->env('deploy_path', '/root/www');
 
-server('dev', '10.211.55.7', 22)
-    ->user('root')
-    ->password('123qwe')
+server('dev', 'your server ip', 22)
+    ->user('ssh_username')
+    ->password('ssh_password')
     ->stage('dev')
     ->env('deploy_path', '/root/www');
 // 设置版本仓库，从这里down代码传至server
