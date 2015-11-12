@@ -43,6 +43,12 @@ dev deploy production
 
 ### 4. rollback
 
+* run command to rollback
+
+``` shell
+dep rollback production	
+```
+
 
 
 ### 参考资料
